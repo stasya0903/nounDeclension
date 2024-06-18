@@ -4,7 +4,7 @@
 
 ## Установка
 
-    composer require drandin/declension-nouns
+    composer require stasya0903/noun_declension
 ## Использование
 
 Создаем класс для склонений:
