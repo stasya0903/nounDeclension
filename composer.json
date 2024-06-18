@@ -1,0 +1,10 @@
+{
+    "name": "stasya0903/noun_declension",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Stasya0903\\NounDeclension\\": "src/"
+        }
+    },
+    "require": {}
+}
