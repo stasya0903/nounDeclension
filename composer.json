@@ -6,5 +6,7 @@
             "Stasya0903\\NounDeclension\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php" : "^7.4"
+    }
 }
